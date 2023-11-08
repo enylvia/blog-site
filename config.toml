@@ -1,0 +1,77 @@
+[module]
+# uncomment line below for temporary local development of module
+#replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+[[module.imports]]
+path = "github.com/lxndrblz/anatole"
+disable = false
+
+[params]
+title = "Aditya Permadi"
+author = "Aditya Permadi"
+description = "Backend Developer"
+profilePicture = "images/profile.jpg"
+displayMode = "dark"
+disableThemeSwitcher = false
+hidesidebar = false
+mainSections = []
+postSectionName = "blog"
+relatedPosts = true
+numberOfRelatedPosts = 3
+
+[related]
+includeNewer = true
+threshold = 80
+toLower = true
+[[related.indices]]
+name = 'keywords'
+weight = 100
+[[related.indices]]
+name = 'tags'
+weight = 80
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/addityap/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:addityap@hotmail.com"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/enylvia/"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/addityap/"
+
+[menu]
+
+[[menu.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[menu.main]]
+name = "Blog"
+weight = 200
+identifier = "posts"
+url = "/blog/"
+
+[[menu.main]]
+name = "Portfolio"
+weight = 200
+identifier = "portfolio"
+url = "/portfolio/"
+
+[[menu.main]]
+name = "Certifications"
+weight = 500
+identifier = "certifications"
+url = "/certifications/"
+
