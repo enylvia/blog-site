@@ -5,13 +5,12 @@ aliases = ["certifications"]
 author = "Aditya Permadi"
 +++
 ---
-1. **Go (Basic) Certificate 2023**
+1. **<a href="https://www.hackerrank.com/certificates/6db5396c0840">Go (Basic) Certificate 2023</a>** 
     - Issued by: HackerRank
-
 2. **English Proficiency Test - Home Edition**
     - Institution: Telkom University Language Center
 
-3. **Pemrograman Go-Lang: Pemula sampai Mahir 2022**
+3. **<a href="https://www.udemy.com/certificate/UC-bd2ba450-32fe-4d2a-a3ad-240f6aee8478/">Pemrograman Go-Lang: Pemula sampai Mahir 2022</a>**
     - Platform: Udemy
 
 4. **Full-Stack Golang & Vue JS: Crowdfunding Website 2022**
