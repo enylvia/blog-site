@@ -3,7 +3,7 @@ portfolioitems:
   - title: Work Project
     portfolioitem:
       - name: Jago Hukum
-        image: '/blog-site/images/portfolio/jago-hukum.png'
+        image: '/images/portfolio/jago-hukum.png'
         link: #
         linktext: 'Visit project website'
         description: 'is the first legal services marketplace in Indonesia. 
@@ -20,7 +20,7 @@ portfolioitems:
         authors:
           - Aditya Permadi
       - name: Maxquad
-        image: '/blog-site/images/portfolio/maxquad-img.png'
+        image: '/images/portfolio/maxquad-img.png'
         description: 'Maxquad is an integrated service that provides information management systems to handle various activities in hospitals and clinics. 
         This comprehensive platform offers solutions for managing and organizing tasks efficiently within healthcare facilities. 
         With its user-friendly interface and robust features, Maxquad streamlines the management of information, ensuring seamless operations and enhancing overall productivity in both hospital and clinic settings'
@@ -30,7 +30,7 @@ portfolioitems:
           - clinic
           - information system
       - name: Basket.id
-        image: '/blog-site/images/portfolio/basket-id.png'
+        image: '/images/portfolio/basket-id.png'
         description: 'Basket - ID is a startup company which operates as Perbasis official partner on running and developing 3x3 Basketball in Indonesia. 
         Basket-ID will also manage Basketball Talents, and Referees database across Indonesia to solidify a continous 3x3 development programs.'
         status: 'Finished'

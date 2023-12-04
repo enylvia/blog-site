@@ -9,6 +9,6 @@ tags = [
 thumbnail= "images/hello.jpg"
 +++
 
-{{< figure src="/blog-site/images/hello.jpg"  class="alignright" width="365" height="100" >}}
+{{< figure src="/images/hello.jpg"  class="alignright" width="365" height="100" >}}
 
 This my first post!
