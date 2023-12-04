@@ -5,6 +5,11 @@
 path = "github.com/lxndrblz/anatole"
 disable = false
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+
 [params]
 title = "Aditya Permadi"
 author = "Aditya Permadi"
