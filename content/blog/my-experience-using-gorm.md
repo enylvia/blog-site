@@ -12,6 +12,7 @@ thumbnail= "images/blog-images/gorm-logo.png"
 +++
 
 # Start using Object related model (ORM) especially GORM
+<hr>
 
 ## Introduction
 
@@ -25,7 +26,7 @@ Installing GORM itself is quite easy. Follow these steps:
 2. To install GORM in your project, use the following command in your terminal:
 
 ```bash
-go get -u gorm.io/gorm
+  go get -u gorm.io/gorm
 ```
 
 ## Installing SQLite Database Driver
@@ -33,7 +34,7 @@ go get -u gorm.io/gorm
 <p style="text-align: justify">After installing GORM, you need to install the database driver that you plan to use in your project. In this example, we'll install the SQLite driver. Run the following command: </p>
 
 ```bash
-go get -u gorm.io/driver/sqlite
+  go get -u gorm.io/driver/sqlite
 ```
 It's quite easy right? to install gorm on the project we are working on. 
 
