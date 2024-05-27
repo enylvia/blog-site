@@ -23,10 +23,51 @@ Currently, I am serving as a dedicated backend developer at PT Digital Nayaka Ab
 Feel free to reach out to me for any backend development needs or collaboration opportunities. 
 I am passionate about creating efficient and reliable backend systems for digital projects.
 
-{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"  class="left" width="36" height="36" >}}
-{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"  class="left" width="36" height="36" >}}
-{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"  class="left" width="36" height="36" >}}
-{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"  class="left" width="36" height="36" >}}
-{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"  class="left" width="36" height="36" >}}
-{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"  class="left" width="36" height="36" >}}
-{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"  class="left" width="36" height="36" >}}
+{{< row >}}
+{{< col class="col-md-2" >}}
+<div style="display: flex; justify-content: center;">
+{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" >}}
+</div>
+{{< /col >}}
+{{< col class="col-md-2" >}}
+<div style="display: flex; justify-content: center;">
+{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" >}}
+</div>
+{{< /col >}}
+{{< col class="col-md-2" >}}
+<div style="display: flex; justify-content: center;">
+{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" >}}
+</div>
+{{< /col >}}
+{{< col class="col-md-2" >}}
+<div style="display: flex; justify-content: center;">
+{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" >}}
+</div>
+{{< /col >}}
+{{< col class="col-md-2" >}}
+<div style="display: flex; justify-content: center;">
+{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" >}}
+</div>
+{{< /col >}}
+{{< col class="col-md-2" >}}
+<div style="display: flex; justify-content: center;">
+{{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" >}}
+</div>
+{{< /col >}}
+{{< /row >}}
+
+
+[//]: # ()
+[//]: # ({{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"  class="left" width="36" height="36" >}})
+
+[//]: # ({{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"  class="left" width="36" height="36" >}})
+
+[//]: # ({{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"  class="left" width="36" height="36" >}})
+
+[//]: # ({{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"  class="left" width="36" height="36" >}})
+
+[//]: # ({{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"  class="left" width="36" height="36" >}})
+
+[//]: # ({{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"  class="left" width="36" height="36" >}})
+
+[//]: # ({{< figure src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"  class="left" width="36" height="36" >}})
