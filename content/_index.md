@@ -1,7 +1,7 @@
 ### WELCOME guest!
 
 Hello, I am Aditya Permadi, but you can call me Adit. 
-Currently, I am serving as a dedicated backend developer at PT Digital Nayaka Abhinaya.
+Currently, I am working as a dedicated backend developer at PT Digital Nayaka Abhinaya.
 
 * 🌍  I'm based in Indonesia(Pontianak/Jakarta)
 
